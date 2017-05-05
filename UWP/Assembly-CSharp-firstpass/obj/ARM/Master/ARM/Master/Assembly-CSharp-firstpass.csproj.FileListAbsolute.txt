@@ -1,0 +1,16 @@
+C:\Users\Citron\Documents\Polymin\UWP\Assembly-CSharp-firstpass\bin\ARM\Master\Assembly-CSharp-firstpass.dll
+C:\Users\Citron\Documents\Polymin\UWP\Assembly-CSharp-firstpass\bin\ARM\Master\Assembly-CSharp-firstpass.pdb
+C:\Users\Citron\Documents\Polymin\UWP\Assembly-CSharp-firstpass\bin\ARM\Master\Assembly-CSharp-firstpass.pri
+C:\Users\Citron\Documents\Polymin\UWP\Assembly-CSharp-firstpass\obj\ARM\Master\ARM\Master\Assembly-CSharp-firstpass.dll
+C:\Users\Citron\Documents\Polymin\UWP\Assembly-CSharp-firstpass\obj\ARM\Master\ARM\Master\Assembly-CSharp-firstpass.pdb
+C:\Users\Citron\Documents\Polymin\UWP\Assembly-CSharp-firstpass\obj\ARM\Master\ARM\Master\priconfig.xml
+C:\Users\Citron\Documents\Polymin\UWP\Assembly-CSharp-firstpass\obj\ARM\Master\ARM\Master\priconfig.xml.intermediate
+C:\Users\Citron\Documents\Polymin\UWP\Assembly-CSharp-firstpass\obj\ARM\Master\ARM\Master\layout.resfiles
+C:\Users\Citron\Documents\Polymin\UWP\Assembly-CSharp-firstpass\obj\ARM\Master\ARM\Master\layout.resfiles.intermediate
+C:\Users\Citron\Documents\Polymin\UWP\Assembly-CSharp-firstpass\obj\ARM\Master\ARM\Master\resources.resfiles
+C:\Users\Citron\Documents\Polymin\UWP\Assembly-CSharp-firstpass\obj\ARM\Master\ARM\Master\resources.resfiles.intermediate
+C:\Users\Citron\Documents\Polymin\UWP\Assembly-CSharp-firstpass\obj\ARM\Master\ARM\Master\pri.resfiles
+C:\Users\Citron\Documents\Polymin\UWP\Assembly-CSharp-firstpass\obj\ARM\Master\ARM\Master\pri.resfiles.intermediate
+C:\Users\Citron\Documents\Polymin\UWP\Assembly-CSharp-firstpass\obj\ARM\Master\ARM\Master\qualifiers.txt
+C:\Users\Citron\Documents\Polymin\UWP\Assembly-CSharp-firstpass\obj\ARM\Master\ARM\Master\qualifiers.txt.intermediate
+C:\Users\Citron\Documents\Polymin\UWP\Assembly-CSharp-firstpass\obj\ARM\Master\ARM\Master\MultipleQualifiersPerDimensionFound.txt
