@@ -126,12 +126,12 @@ public class DataManager : MonoBehaviour {
         else
         {
             //GameObject instance = (GameObject)Instantiate(Resources.Load("Crosslocator"), new Vector3(xLoc, yLoc, zLoc), Quaternion.identity);
-            GameObject instance =(Instantiate(Crosslocator, new Vector3(xLoc, yLoc, zLoc), Quaternion.identity));
+            GameObject instance =(Instantiate(Crosslocator, new Vector3(xLoc, yLoc, zLoc), Quaternion.Euler(0,0,0)));
             
             //Instantiate(preFab, new Vector3(0, 0, 0), Quaternion.identity);
-            ChordInfoTag infoTag = instance.GetComponent<ChordInfoTag>();
-            print(infoTag.testString);
-            infoTag.SetChordInfoTag(xNote, yNote, zNote, "Chord Data Here", "Chord Data 2");
+            //ChordInfoTag infoTag = instance.GetComponent<ChordInfoTag>();
+           // print(infoTag.testString);
+           // infoTag.SetChordInfoTag(xNote, yNote, zNote, "Chord Data Here", "Chord Data 2");
         }
         return;
     }

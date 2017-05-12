@@ -3,13 +3,14 @@ using System.Collections;
 
 public class Crosslocator : MonoBehaviour {
     public GameObject chordInfoPrefab;
-    public GameObject instance;
+    public ChordInfoTag instance;
 	// Use this for initialization
 	void Start () {
-        instance = Instantiate(chordInfoPrefab, new Vector3((transform.position.x + 1.5f), transform.position.y, transform.position.y), Quaternion.identity);
-
-        instance.transform.position = new Vector3(transform.position.x + 1.5f, transform.position.y, transform.position.z);
-            	}
+        GameObject instanceO = Instantiate(chordInfoPrefab, new Vector3((transform.position.x+.15f), transform.position.y, transform.position.z), Quaternion.identity);
+        instance = instanceO.GetComponent<ChordInfoTag>();
+        //instance.transform.position = new Vector3(transform.position.x + 1.5f, transform.position.y, transform.position.z);
+        int x=1;
+    }
 	
 	// Update is called once per frame
 	void Update () {
